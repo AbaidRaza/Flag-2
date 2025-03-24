@@ -1,0 +1,18 @@
+#box {
+    height: 250px;
+    width: 420px;
+    background-color: rgb(0, 105, 80);
+    margin-left: 100px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;      /* Centers vertically */
+}
+
+#box1 {
+    height: 170px;
+    width: 170px;
+    background-color: rgb(190, 32, 42);
+    border: 1px solid rgb(190, 32, 42);
+    border-radius: 50%;
+}
